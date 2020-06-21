@@ -8,4 +8,4 @@ Only the latest major version receives security fixes.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within Laravel, please send an email to Dries Vints at <dries@vints.io>. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability, please send an email to Dries Vints at <dries@vints.io>. All security vulnerabilities will be promptly addressed.
